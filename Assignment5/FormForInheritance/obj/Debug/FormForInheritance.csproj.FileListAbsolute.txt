@@ -1,0 +1,10 @@
+C:\Programming3\Assignment5_MoemiHagiyama\FormForInheritance\bin\Debug\FormForInheritance.dll.config
+C:\Programming3\Assignment5_MoemiHagiyama\FormForInheritance\bin\Debug\FormForInheritance.dll
+C:\Programming3\Assignment5_MoemiHagiyama\FormForInheritance\bin\Debug\FormForInheritance.pdb
+C:\Programming3\Assignment5_MoemiHagiyama\FormForInheritance\obj\Debug\FormForInheritance.csprojResolveAssemblyReference.cache
+C:\Programming3\Assignment5_MoemiHagiyama\FormForInheritance\obj\Debug\FormForInheritance.csproj.GenerateResource.cache
+C:\Programming3\Assignment5_MoemiHagiyama\FormForInheritance\obj\Debug\FormForInheritance.csproj.CoreCompileInputs.cache
+C:\Programming3\Assignment5_MoemiHagiyama\FormForInheritance\obj\Debug\FormForInheritance.dll
+C:\Programming3\Assignment5_MoemiHagiyama\FormForInheritance\obj\Debug\FormForInheritance.pdb
+C:\Programming3\Assignment5_MoemiHagiyama\FormForInheritance\obj\Debug\FormForInheritance.Form1.resources
+C:\Programming3\Assignment5_MoemiHagiyama\FormForInheritance\obj\Debug\FormForInheritance.AddNumbers.resources

@@ -1,0 +1,15 @@
+C:\Programming3\Assignment5_MoemiHagiyama\MainCalculateForm\obj\Debug\MainCalculateForm.csprojResolveAssemblyReference.cache
+C:\Programming3\Assignment5_MoemiHagiyama\MainCalculateForm\obj\Debug\MainCalculateForm.MainCalculate.resources
+C:\Programming3\Assignment5_MoemiHagiyama\MainCalculateForm\obj\Debug\MainCalculateForm.Properties.Resources.resources
+C:\Programming3\Assignment5_MoemiHagiyama\MainCalculateForm\obj\Debug\MainCalculateForm.csproj.GenerateResource.cache
+C:\Programming3\Assignment5_MoemiHagiyama\MainCalculateForm\obj\Debug\MainCalculateForm.csproj.CoreCompileInputs.cache
+C:\Programming3\Assignment5_MoemiHagiyama\MainCalculateForm\bin\Debug\MainCalculateForm.exe.config
+C:\Programming3\Assignment5_MoemiHagiyama\MainCalculateForm\bin\Debug\MainCalculateForm.exe
+C:\Programming3\Assignment5_MoemiHagiyama\MainCalculateForm\bin\Debug\MainCalculateForm.pdb
+C:\Programming3\Assignment5_MoemiHagiyama\MainCalculateForm\bin\Debug\FormForInheritance.dll
+C:\Programming3\Assignment5_MoemiHagiyama\MainCalculateForm\bin\Debug\FormForInheritance.pdb
+C:\Programming3\Assignment5_MoemiHagiyama\MainCalculateForm\bin\Debug\FormForInheritance.dll.config
+C:\Programming3\Assignment5_MoemiHagiyama\MainCalculateForm\obj\Debug\MainCalculateForm.csproj.CopyComplete
+C:\Programming3\Assignment5_MoemiHagiyama\MainCalculateForm\obj\Debug\MainCalculateForm.exe
+C:\Programming3\Assignment5_MoemiHagiyama\MainCalculateForm\obj\Debug\MainCalculateForm.pdb
+C:\Programming3\Assignment5_MoemiHagiyama\MainCalculateForm\obj\Debug\MainCalculateForm.MultipleNumbers.resources
